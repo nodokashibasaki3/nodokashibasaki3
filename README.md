@@ -6,4 +6,5 @@ Electrical and Computer Engineering at [Northeastern University](https://www.nor
 Researching at [Institute for Experiential Robotics](https://robotics.northeastern.edu/);<br>
 
 - ⚙️ I use daily: `.py`, `.cpp`, `.xml`, `.yaml`, `.launch.py`, `.bash`
-- 💬 `ping` me about **robotics**, **low-level control**, **MacOS tools**, **basketball**
+- 🩷 `love` talking about **robotics**, **low-level control**, **MacOS tools**, **basketball**
+- 💬 `ping` me at [linkedin](https://www.linkedin.com/in/nodoka2027)
