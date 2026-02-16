@@ -7,4 +7,4 @@ Researching at [Institute for Experiential Robotics](https://robotics.northeaste
 
 - ⚙️ I use daily: `.py`, `.cpp`, `.xml`, `.yaml`, `.launch.py`, `.bash`
 - 🩷 `love` talking about **robotics**, **low-level control**, **MacOS tools**, **basketball**
-- 💬 `ping` me at [linkedin](https://www.linkedin.com/in/nodoka2027)
+- 💬 ping me from my [linkedin](https://www.linkedin.com/in/nodoka2027)!
