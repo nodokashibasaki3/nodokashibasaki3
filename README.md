@@ -1,11 +1,9 @@
 ### Hello there 👋
 
-#### A Full-Stack Developer by day ☼ and a Laravel Community Contributor by night ☾
+#### I enjoy seeing Robots do cool things 🤖🦾
 
-Full-Stack Developer at [Medicare](https://medicare.pt?ref=github-caneco);<br>
-Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
+Electrical and Computer Engineering at [Northeastern University](https://www.northeastern.edu/);<br>
+Researching at [Institute for Experiential Robotics](https://robotics.northeastern.edu/);<br>
 
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
-- 💬 `ping` me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- ⚙️ I use daily: `.py`, `.cpp`, `.xml`, `.yaml`, `.launch.py`, `.bash`
+- 💬 `ping` me about **robotics**, **low-level control**, **MacOS tools**, **basketball**
