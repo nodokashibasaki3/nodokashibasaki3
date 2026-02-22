@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### I enjoy seeing Robots do cool things 🤖🦾
+#### I enjoy building 🤖🦾
 
 Electrical and Computer Engineering at [Northeastern University](https://www.northeastern.edu/);<br>
 Researching at [Institute for Experiential Robotics](https://robotics.northeastern.edu/);<br>
