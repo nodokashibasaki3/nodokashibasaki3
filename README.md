@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello 👋
 
 #### I enjoy building 🤖🦾
 
